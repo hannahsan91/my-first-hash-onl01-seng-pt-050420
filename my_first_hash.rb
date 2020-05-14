@@ -1,7 +1,7 @@
 def my_hash
   # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
 my_hash = {"computer" => "MacBook Pro", "phone" => "iPhone X", "tablet" => "iPad"}
-my_hash
+
 
 end
 
